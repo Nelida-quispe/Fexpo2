@@ -1,0 +1,111 @@
+body
+{
+    background-color:rgb(243, 202, 255);
+}
+p
+{
+    font-size:large;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2
+{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size:xx-large;
+    font-family:cursive
+}
+h3
+{
+    color: rgb(0, 0, 0);
+    font-size:xx-large;
+    font-family:cursive
+}
+h4 
+{
+    font-size: x-large;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    font-size:large;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+ol
+{
+    text-align: center;
+}
+Div.uno
+{
+    
+    text-align: center;
+    border-radius: 15px;
+    width: 100%;
+
+}
+div.dos{
+    background-color:rgb(238, 235, 85);
+    text-align: center;
+    border: solid 1.5px black;
+    border-radius: 15px;
+    width: 40%;
+}
+div.tres{
+    background-color:  rgb(100, 36, 71);
+    text-align: center;
+    border: solid 1.5px black;
+    border-radius: 15px;
+    width: 100%;
+}
+div.cuatro{
+    background-color:  rgb(100, 36, 71);
+    text-align: center;
+    border: solid 1.5px black;
+    border-radius: 15px;
+    width: 60%;
+}
+div.cinco
+{
+    background-color:  rgb(100, 36, 71);
+    text-align: center;
+    border: solid 1.5px black;
+    border-radius: 15px;
+    width: 40%;
+
+}
+div.Sabor2
+{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    width: 100%;
+}
+div.producto
+{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    width: 100%;
+}
+table, tr, th, td
+{
+    border: 1px solid black;
+    background-color: rgb(238, 235, 85);
+    width: 70%;
+} 
+th, td{
+    font-size:large;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+footer
+{
+    background-color: rgb(1, 48, 148);
+    font-family: fantasy;
+    color: rgb(253, 250, 34);
+    height: 40%;
+    text-align: center;
+    font-size: xx-large;
+}
